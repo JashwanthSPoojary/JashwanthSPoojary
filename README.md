@@ -12,7 +12,7 @@ I'm a full stack developer with a passion for building web applications.
 - **Languages:** JavaScript, TypeScript
 - **Languages:** JavaScript, TypeScript
 
-https://img.shields.io/badge/logo-javascript-blue?logo=javascript
+(https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ## 🚀 Goals
 - Collaborate on interesting projects
 - Deliver high-quality solutions
