@@ -4,7 +4,7 @@ Building full stack applications.
 
 🌐 Check Out My Portfolio
 🚀 Explore my work and projects on my portfolio website:
-🎨 jashwanth.me
+🎨[Portfolio](https://www.jashwanth.me)
 
 # 💻 Tech Stack:
 
