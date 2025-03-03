@@ -2,9 +2,9 @@
 
 Building full stack applications.
 
-🌐 Check Out My Portfolio
+🌐 Check Out My Portfolio . 
 🚀 Explore my work and projects on my portfolio website:
-🎨[Portfolio](https://www.jashwanth.me)
+🎨[jashwanth.me](https://www.jashwanth.me)
 
 # 💻 Tech Stack:
 
