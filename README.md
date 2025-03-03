@@ -7,7 +7,7 @@ I'm a full stack developer with a passion for building web applications.
 - Exploring new technologies
 
 ## 🌱 Technologies & Tools
-# 💻 Tech Stack:
+
 # 💻 Tech Stack:
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -29,13 +29,40 @@ I'm a full stack developer with a passion for building web applications.
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%23FF0050.svg?style=for-the-badge&logo=framer&logoColor=white)  
 
+---
 
+## 🚀 Projects
 
-yarn
-## 🚀 Goals
+### 1️⃣ **Buzznet (Slack/Discord Clone)**
+- A real-time communication platform where users can create workspaces, channels, and direct messages.
+- Features: WebSockets for real-time chat, authentication, voice channels (WebRTC), and AI chatbot (Gemini).
+- **Tech Stack:** Next.js, Node.js, Express.js, PostgreSQL, Prisma, WebSockets, Zustand.
+- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+
+### 2️⃣ **Food Delivery Website**
+- A full-stack food ordering app with secure Stripe payment integration and admin dashboard.
+- Features: User authentication, order tracking, mobile-friendly UI, and data encryption.
+- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Stripe, Tailwind CSS.
+- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+
+### 3️⃣ **YouTube UI Clone**
+- A fully responsive YouTube-like UI built with React.js and YouTube Developer API.
+- Features: Category-based video browsing, search functionality, and smooth user experience.
+- **Tech Stack:** React.js, YouTube API, Tailwind CSS.
+- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+
+### 4️⃣ **Video Annotation Platform**
+- A web app where users can annotate videos (YouTube or uploaded) at specific timestamps.
+- Features: Timestamped notes, PostgreSQL storage, and modern UI for seamless interaction.
+- **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI.
+- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+
+---
+
+## 🎯 Goals
 - Collaborate on interesting projects
 - Deliver high-quality solutions
 
 ## 📫 Contact
-Connect with me on [LinkedIn](https://www.linkedin.com/in/jashwanth-s-poojary/).
-Connect with me on [X or twitter whethever](https://x.com/JashwantPoojary).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/jashwanth-s-poojary/)
+- Follow me on [X (Twitter)](https://x.com/JashwantPoojary)
