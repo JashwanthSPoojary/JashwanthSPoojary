@@ -1,13 +1,10 @@
 # Hello! 👋
 
-I'm a full stack developer with a passion for building web applications.
-check out my Portfolio : jashwanth.me
+Building full stack applications.
 
-## 🔭 Current Focus
-- Full stack development
-- Exploring new technologies
-
-## 🌱 Technologies & Tools
+🌐 Check Out My Portfolio
+🚀 Explore my work and projects on my portfolio website:
+🎨 jashwanth.me
 
 # 💻 Tech Stack:
 
@@ -58,11 +55,6 @@ check out my Portfolio : jashwanth.me
 - **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI.
 - 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
 
----
-
-## 🎯 Goals
-- Collaborate on interesting projects
-- Deliver high-quality solutions
 
 ## 📫 Contact
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/jashwanth-s-poojary/)
