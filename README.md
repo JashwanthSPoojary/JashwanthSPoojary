@@ -3,7 +3,9 @@
 Building full stack applications.
 
 🌐 Check Out My Portfolio . 
+
 🚀 Explore my work and projects on my portfolio website:
+
 🎨[jashwanth.me](https://www.jashwanth.me)
 
 # 💻 Tech Stack:
@@ -31,29 +33,30 @@ Building full stack applications.
 
 ## 🚀 Projects
 
-### 1️⃣ **Buzznet (Slack/Discord Clone)**
+  ### 1️⃣ **Video Annotation Platform**
+- A web app where users can annotate videos (YouTube) at specific timestamps.
+- Features: Timestamped notes, PostgreSQL storage, and modern UI for seamless interaction.
+- **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI.
+- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/video-annotation-platform) | 🌍 [Live Demo](https://videoano.jashwanth.me)
+
+### 2️⃣ **Buzznet (Slack/Discord Clone)**
 - A real-time communication platform where users can create workspaces, channels, and direct messages.
 - Features: WebSockets for real-time chat, authentication, voice channels (WebRTC), and AI chatbot (Gemini).
 - **Tech Stack:** Next.js, Node.js, Express.js, PostgreSQL, Prisma, WebSockets, Zustand.
-- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/my_buzznet) | 🌍 [Live Demo](https://buzznet.jashwanth.me) - made backend down due to charges by cloud provider
 
-### 2️⃣ **Food Delivery Website**
-- A full-stack food ordering app with secure Stripe payment integration and admin dashboard.
-- Features: User authentication, order tracking, mobile-friendly UI, and data encryption.
-- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Stripe, Tailwind CSS.
-- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
-
-### 3️⃣ **YouTube UI Clone**
+### 3️⃣  **YouTube UI Clone**
 - A fully responsive YouTube-like UI built with React.js and YouTube Developer API.
 - Features: Category-based video browsing, search functionality, and smooth user experience.
 - **Tech Stack:** React.js, YouTube API, Tailwind CSS.
-- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/youtube-clone-using-api) | 🌍 [Live Demo](https://youtube-clone-using-api.vercel.app)
 
-### 4️⃣ **Video Annotation Platform**
-- A web app where users can annotate videos (YouTube or uploaded) at specific timestamps.
-- Features: Timestamped notes, PostgreSQL storage, and modern UI for seamless interaction.
-- **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI.
-- 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)
+### 4️⃣ **Food Delivery Website**
+- A full-stack food ordering app with secure Stripe payment integration and admin dashboard.
+- Features: User authentication, order tracking, mobile-friendly UI, and data encryption.
+- **Tech Stack:** MERN Stack (MongoDB, Express, React, Node.js), Stripe, Tailwind CSS.
+- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/food-web) | 🌍 [Live Demo](https://food-web-frontend-p745.onrender.com) =  slow due to render deployment 
+
 
 
 ## 📫 Contact
