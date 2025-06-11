@@ -32,7 +32,6 @@ Building full stack applications.
 ---
 
 ## 🚀 My top 5 projects
-## 🚀 Projects
 
 ### Vexl  
 <a href="https://vexl.live" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/Vexl" target="_blank">💻 GitHub</a>  
