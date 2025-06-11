@@ -32,8 +32,11 @@ Building full stack applications.
 ---
 
 ## 🚀 My top 5 projects
-### [Vexl](https://vexl.live) · [GitHub Repo](https://github.com/JashwanthSPoojary/Vexl)  
-**Tech Stack:** Next.js, Node.js, Redis, Docker  
+## 🚀 Projects
+
+### Vexl  
+<a href="https://vexl.live" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/Vexl" target="_blank">💻 GitHub</a>  
+<b>Tech Stack:</b> Next.js, Node.js, Redis, Docker  
 A fully-featured React hosting platform inspired by Vercel.  
 - GitHub OAuth integration and automated Docker-based builds  
 - CDN-backed static file delivery with real-time logs  
@@ -41,35 +44,39 @@ A fully-featured React hosting platform inspired by Vercel.
 
 ---
 
-### [InterviewAI](https://aiinterview.jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/Ai-Interview-simulation)  
-**Tech Stack:** Next.js, Gemini API, PDF Parser, Prisma, PostgreSQL  
-An AI-driven interview simulation app that generates questions from your resume.  
+### InterviewAI  
+<a href="https://aiinterview.jashwanth.me" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/Ai-Interview-simulation" target="_blank">💻 GitHub</a>  
+<b>Tech Stack:</b> Next.js, Gemini API, PDF Parser, Prisma, PostgreSQL  
+AI-powered resume-based interview simulator.  
 - Uses LLM APIs to analyze resume content  
 - Extracts structured data from PDFs for dynamic question generation  
 
 ---
 
-### [VideoAno](https://videoano.jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/video-annotation-platform)  
-**Tech Stack:** Next.js, React Player, Shadcn UI, Tailwind CSS  
+### VideoAno  
+<a href="https://videoano.jashwanth.me" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/video-annotation-platform" target="_blank">💻 GitHub</a>  
+<b>Tech Stack:</b> Next.js, React Player, Shadcn UI, Tailwind CSS  
 YouTube video annotation platform.  
 - Paste any YouTube link and annotate it with text  
 - Save, share public annotations, and view previous work in your dashboard  
 
 ---
 
-### [Buzznet](https://buzznet.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/buzznet_frontend)  
-**Tech Stack:** React.js, Node.js, WebSocket, WebRTC  
-A real-time collaboration platform inspired by Slack/Discord.  
-- Text chat, peer-to-peer video calling, and AI assistant  
-- OAuth authentication (Passport.js) and mobile responsive design  
+### Buzznet  
+<a href="https://buzznet.me" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/buzznet_frontend" target="_blank">💻 GitHub</a>  
+<b>Tech Stack:</b> React.js, Node.js, WebSocket, WebRTC  
+Real-time chat and video platform inspired by Slack/Discord.  
+- Real-time messaging, peer-to-peer video calls  
+- AI assistant and Passport.js-based authentication  
 
 ---
 
-### [Portfolio](https://jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/my_portfolio)  
-**Tech Stack:** Next.js, Framer Motion, Tailwind CSS  
-Minimal and clean portfolio website.  
-- Smooth transitions with Framer Motion  
-- Sidebar dashboard-style layout  
+### Portfolio  
+<a href="https://jashwanth.me" target="_blank">🔗 Live</a> · <a href="https://github.com/JashwanthSPoojary/my_portfolio" target="_blank">💻 GitHub</a>  
+<b>Tech Stack:</b> Next.js, Framer Motion, Tailwind CSS  
+Simple and minimalistic personal portfolio.  
+- Framer Motion animations for page transitions  
+- Dashboard-style sidebar layout  
 
 
   ## 🚀 My practice projects
