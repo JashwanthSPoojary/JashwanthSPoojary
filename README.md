@@ -31,26 +31,46 @@ Building full stack applications.
 
 ---
 
-## 🚀 My top 3 projects
+## 🚀 My top 5 projects
+### [Vexl](https://vexl.live) · [GitHub Repo](https://github.com/JashwanthSPoojary/Vexl)  
+**Tech Stack:** Next.js, Node.js, Redis, Docker  
+A fully-featured React hosting platform inspired by Vercel.  
+- GitHub OAuth integration and automated Docker-based builds  
+- CDN-backed static file delivery with real-time logs  
+- Supports environment variables, custom domains, and auto redeployments on new commits  
 
+---
 
-  ### 1️⃣ **InterviewAI**
-- upload your resume based on it ai forms questions to create a interview .
-- Features: resume based interview , gemini api intergration , .
-- **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI , framer motion , pdf-parse .
-- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/Ai-Interview-simulation) | 🌍 [Live Demo](https://interviewai.jashwanth.me)
+### [InterviewAI](https://aiinterview.jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/Ai-Interview-simulation)  
+**Tech Stack:** Next.js, Gemini API, PDF Parser, Prisma, PostgreSQL  
+An AI-driven interview simulation app that generates questions from your resume.  
+- Uses LLM APIs to analyze resume content  
+- Extracts structured data from PDFs for dynamic question generation  
 
-### 2️⃣ **Buzznet (Slack/Discord Clone)**
-- A real-time communication platform where users can create workspaces, channels, and direct messages.
-- Features: WebSockets for real-time chat, authentication, voice channels (WebRTC), and AI chatbot (Gemini).
-- **Tech Stack:** Next.js, Node.js, Express.js, PostgreSQL, Prisma, WebSockets, Zustand.
-- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/my_buzznet) | 🌍 [Live Demo](https://buzznet.me) 
+---
 
- ### 3️⃣ **Video Annotation Platform**
-- A web app where users can annotate videos (YouTube) at specific timestamps.
-- Features: Timestamped notes, PostgreSQL storage, and modern UI for seamless interaction.
-- **Tech Stack:** Next.js, PostgreSQL, Prisma, Shadcn UI.
-- 🔗 [GitHub Repo](https://github.com/JashwanthSPoojary/video-annotation-platform) | 🌍 [Live Demo](https://videoano.jashwanth.me)
+### [VideoAno](https://videoano.jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/video-annotation-platform)  
+**Tech Stack:** Next.js, React Player, Shadcn UI, Tailwind CSS  
+YouTube video annotation platform.  
+- Paste any YouTube link and annotate it with text  
+- Save, share public annotations, and view previous work in your dashboard  
+
+---
+
+### [Buzznet](https://buzznet.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/buzznet_frontend)  
+**Tech Stack:** React.js, Node.js, WebSocket, WebRTC  
+A real-time collaboration platform inspired by Slack/Discord.  
+- Text chat, peer-to-peer video calling, and AI assistant  
+- OAuth authentication (Passport.js) and mobile responsive design  
+
+---
+
+### [Portfolio](https://jashwanth.me) · [GitHub Repo](https://github.com/JashwanthSPoojary/my_portfolio)  
+**Tech Stack:** Next.js, Framer Motion, Tailwind CSS  
+Minimal and clean portfolio website.  
+- Smooth transitions with Framer Motion  
+- Sidebar dashboard-style layout  
+
 
   ## 🚀 My practice projects
   
